@@ -35,8 +35,11 @@ tool helped me get hands-on experience monitoring integrity at the file system l
 ---
 
 ## 📂 Usage
-Clone the repo and run the monitor:
-```bash
+
+```powershell
+# Clone the repository
 git clone https://github.com/aayushpandey06/FileIntegrity.git
 cd FileIntegrity
-python integrity_monitor.py
+
+# Run the script
+.\FileIntegrity.ps1
