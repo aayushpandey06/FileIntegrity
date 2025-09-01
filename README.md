@@ -1,7 +1,7 @@
 # FileIntegrity
 
 This project is a File Integrity Monitoring tool built in PowerShell to detect unauthorized changes to files and directories.
-It continuously scans and prints real-time updates (every ~3–5 seconds) in the terminal whenever files are modified, deleted, or newly created.
+It continuously scans and prints real-time updates (every 2 seconds) in the terminal whenever files are modified, deleted, or newly created.
 The goal is to simulate enterprise-style security monitoring, giving hands-on experience in cyber defense and SOC operations.
 
 # 🛡️ File Integrity Monitoring System
